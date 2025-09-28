@@ -1,0 +1,34 @@
+{
+  "name": "EVAA",
+  "symbol": "EVAA",
+  "description": "DeFi Superlayer On Telegram. EVAA lending protocol is a decentralized finance platform that leverages TON and Telegram to provide lending and borrowing services to 1B users.",
+  "image": "https://raw.githubusercontent.com/evaafi/token-meta/main/icon.png",
+  "external_url": "https://evaa.finance",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "BNB Smart Chain"
+    },
+    {
+      "trait_type": "Chain ID",
+      "value": "56"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "18"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "ERC20"
+    },
+    {
+      "trait_type": "Features",
+      "value": "Mintable, Burnable, Ownable"
+    }
+  ],
+  "properties": {
+    "contract_address": "0xaa036928c9c0Df07d525B55ea8EE690Bb5a628C1",
+    "deployer_address": "0xb8B370e5fe46C1e010023C8b2D7f4bc743f03426",
+    "initial_owner": "0xb8B370e5fe46C1e010023C8b2D7f4bc743f03426"
+  }
+}
